@@ -1,0 +1,6 @@
+{
+  "name": "Startup Idea Generator｜起業アイデア自動生成ツール",
+  "description": "ユーザーがモードと難易度を選ぶと、あらかじめ用意された豊富なリストの中から、ランダムに選ばれた「単語」や「テーマ」が表示されるWebツール。アイデア出しのきっかけを提供します。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
